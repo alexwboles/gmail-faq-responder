@@ -1,0 +1,20 @@
+[
+  {
+    "id": "class_schedule",
+    "question": "What is the fitness class schedule?",
+    "keywords": ["class schedule", "class times", "when are classes"],
+    "answer": "Our current class schedule is available at https://example.com/schedule. Reply with your preferred day if you would like help choosing a class."
+  },
+  {
+    "id": "membership_price",
+    "question": "How much does a membership cost?",
+    "keywords": ["membership cost", "membership price", "monthly fee"],
+    "answer": "Membership options start at $49 per month. We can confirm the best plan after learning which classes and facilities you want to use."
+  },
+  {
+    "id": "trial_class",
+    "question": "Can I book a trial class?",
+    "keywords": ["trial class", "first class", "try a class"],
+    "answer": "Yes. Please share the class and date you prefer, and our team will confirm availability."
+  }
+]

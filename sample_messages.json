@@ -1,0 +1,17 @@
+[
+  {
+    "id": "msg-001",
+    "subject": "Class schedule",
+    "body": "Hi, what is the fitness class schedule?"
+  },
+  {
+    "id": "msg-002",
+    "subject": "Medical question",
+    "body": "Can you recommend exercises for my knee injury?"
+  },
+  {
+    "id": "msg-001",
+    "subject": "Duplicate",
+    "body": "This record should never trigger a second reply."
+  }
+]
